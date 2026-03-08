@@ -24,13 +24,6 @@
 
 ---
 
-## ✦ Preview
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourname/calc/main/preview.png" alt="Calculator Preview" width="360" style="border-radius: 20px;" />
-</div>
-
----
 
 ## ⚡ Features
 
