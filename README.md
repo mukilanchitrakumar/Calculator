@@ -19,8 +19,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/▶%20Launch%20Demo-7C6AFF?style=for-the-badge&logoColor=white)]([https://yourname.github.io/calc](https://mukilanchitrakumar.github.io/Calculator/))
-
+[![Live Demo](https://img.shields.io/badge/▶%20Launch%20Demo-7C6AFF?style=for-the-badge)](https://mukilanchitrakumar.github.io/Calculator/)
 </div>
 
 ---
@@ -104,8 +103,9 @@ calc/
 - **%** Percentage
 - **+/−** Sign toggle
 - Expression history shown above result
-
 ---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mukilanchitrakumar.Calculator)
 
 <div align="center">
 
