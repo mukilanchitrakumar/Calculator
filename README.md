@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/▶%20Launch%20Demo-7C6AFF?style=for-the-badge&logoColor=white)](https://yourname.github.io/calc)
+[![Live Demo](https://img.shields.io/badge/▶%20Launch%20Demo-7C6AFF?style=for-the-badge&logoColor=white)]([https://yourname.github.io/calc](https://mukilanchitrakumar.github.io/Calculator/))
 
 </div>
 
